@@ -10,7 +10,13 @@ Simply copy CSS rules from `stylesheet.css` and paste them into the end of your 
 
 # Changelog
 
-**EnTypo v0.1
+**EnTypo v0.2**
+
+* Added wiki support
+* Fixed code containers
+* Fixed lists
+
+**EnTypo v0.1**
 
 * Implemented code styling
 * Implemented heading styling
